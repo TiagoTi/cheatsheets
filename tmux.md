@@ -1,8 +1,27 @@
 ---
 title: tmux
 category: CLI
+layout: 2017/sheet
+ads: true
+tags: [Featured]
+updated: 2019-07-29
+weight: -10
+keywords:
+    - Tmux
+    - CLI
 ---
+<!-- title: React.js
 
+
+
+keywords:
+  - React.Component
+  - render()
+  - componentDidMount()
+  - props/state
+  - dangerouslySetInnerHTML
+intro: |
+  [React](https://reactjs.org/) is a JavaScript library for building user interfaces. This guide targets React v15 to v16. -->
 ### Commands
 
     $ tmux
