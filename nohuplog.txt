@@ -1,0 +1,3 @@
+jekyll 3.5.2 | Error:  Whoops, we can't understand your command.
+jekyll 3.5.2 | Error:  invalid option: --incremental
+jekyll 3.5.2 | Error:  Run your command again with the --help switch to see available options.
