@@ -30,7 +30,9 @@ const a = 1
 ```
 
 `let` is the new `var`. Constants work just like `let`, but can't be reassigned.
-See: [Let and const](https://babeljs.io/learn-es2015/#let--const)
+See: [Let and const](https://babeljs.io/learn-es2015/#let--const).
+
+---
 
 ### Backtick strings
 
